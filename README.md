@@ -15,17 +15,17 @@ D and T as just two sets of objects). The task for this problem is to implement 
 
 
 # Result
-running measure.py the first time
-I get this result
-When n is: 100 &nbsp;
-Basic solution time: 0.351300992013420 &nbsp;
-Smart solution time: 0.320211414014920 &nbsp;
-When n is: 200 &nbsp;
-Basic solution time: 2.4467377639957704 &nbsp;
-Smart solution time: 0.763522985012969 &nbsp;
-When n is: 500 &nbsp;
-Basic solution time: 2.354874929005746 &nbsp;
-Smart solution time: 1.2695786299882457 &nbsp;
-When n is: 1000 &nbsp;
-Basic solution time: 9.498742081021192 &nbsp;
-Smart solution time: 6.216420765005751 &nbsp;
+running measure.py the first time<br />
+I get this result<br /><br />
+When n is: 100<br />
+Basic solution time: 0.351300992013420<br />
+Smart solution time: 0.320211414014920<br />
+When n is: 200<br />
+Basic solution time: 2.4467377639957704<br />
+Smart solution time: 0.763522985012969<br />
+When n is: 500<br />
+Basic solution time: 2.354874929005746<br />
+Smart solution time: 1.2695786299882457<br />
+When n is: 1000<br />
+Basic solution time: 9.498742081021192<br />
+Smart solution time: 6.216420765005751<br />
